@@ -31,8 +31,8 @@ You can use SQLite for the database backend for simplicity**
 4. Open the browser: **http://localhost:8000**
 5. Click on sign up page to create the credential.
       > If you don't want to  create the credential, you can use admin credential
-         >> **username == ankursaurabh**
-         >> **password == ankur121**
+      >> **username == ankursaurabh**
+      >> **password == ankur121**
 6. You can import the CSV file by click on IMPORT.
 7. Display all the data by click on the TEACHER.
 8. 
