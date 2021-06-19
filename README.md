@@ -31,21 +31,15 @@ You can use SQLite for the database backend for simplicity**
 4. Open the browser: **http://localhost:8000**
 5. Click on sign up page to create the credential.
       > If you don't want to  create the credential, you can use admin credential
-         1. **username == ankursaurabh**
-         2. **password == ankur121**
+         >> **username == ankursaurabh**
+         >> **password == ankur121**
 6. You can import the CSV file by click on IMPORT.
 7. Display all the data by click on the TEACHER.
 8. 
 
-*Deployed on server: **http://teacherdirectory.pythonanywhere.com/admin*
-> **use the credential:**
-  * username==ankursaurabh
-  * password==ankur121
-
-
 ## Screenshots
 
-1. **Base Page**
+### 1. **Base Page**
 
 
 ![base_page](https://user-images.githubusercontent.com/48859058/122656388-c3218780-d177-11eb-9041-5ab719ffaaa0.png)
@@ -53,7 +47,7 @@ You can use SQLite for the database backend for simplicity**
 
 
 
-2. **After login with Admin Panel: Click on Import to add new files in CSV Format.**
+### 2. **After login with Admin Panel: Click on Import to add new files in CSV Format.**
 
 
 
@@ -61,7 +55,7 @@ You can use SQLite for the database backend for simplicity**
 
 
 
-3. **Click on Teacher Table_1**
+### 3. **Click on Teacher Table_1**
 
 
 
@@ -69,14 +63,14 @@ You can use SQLite for the database backend for simplicity**
 
 
 
-4. **Click on Teacher Table_2**
+### 4. **Click on Teacher Table_2**
 
 
 ![click on taecher tab_2](https://user-images.githubusercontent.com/48859058/122656426-024fd880-d178-11eb-9747-9b94baede78e.png)
 
 
 
-5. **Brief Informtion related to Teacher Table**
+### 5. **Brief Informtion related to Teacher Table**
 
 
 ![brief information related to teacher](https://user-images.githubusercontent.com/48859058/122656435-11368b00-d178-11eb-9a88-d03c9346c1ac.png)
