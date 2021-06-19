@@ -13,7 +13,7 @@ Each teacher should have the following information fields are:**
 
 
 ## Steps to Run 
-1. Download or Clone the Repository:    **https://github.com/ankurpython/Techtest_project**
+1. Download or Clone the Repository:    **https://github.com/ankurpython/Techtest_project.git**
 2. Make sure to install requirements.txt file:   **https://github.com/ankurpython/Techtest_project/blob/master/teacherdirectory/requirements.txt**
 3. After all the installation complete use the django command to runserver:   **py manage.py runserver**
 4. Open the browser: **http://localhost:8000**
